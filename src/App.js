@@ -9,7 +9,9 @@ function App() {
 
   return (
     <Provider store={store}>
-      <RatesTable/>
+      <div className="container">
+        <RatesTable/>
+      </div>
     </Provider>
   );
 }

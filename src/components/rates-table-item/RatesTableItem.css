@@ -1,0 +1,29 @@
+.rates-table-item {
+  width: 300px;
+  padding-left: 12px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #00419B;
+  border-bottom: 1px solid #ABAABF;
+}
+
+.rates-table-item .country {
+  display: flex;
+  align-items: center;
+}
+
+.rates-table-item .currency-flag {
+  padding-left: 8px;
+}
+
+.rates-table-item .name {
+  padding-left: 12px;
+  color: #FFFFFF;
+}
+
+.rates-table-item .value {
+  padding: 8px 12px;
+  width: 100px;
+  color: #D71622;
+  background-color: #040301;
+}

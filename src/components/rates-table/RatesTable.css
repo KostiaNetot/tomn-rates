@@ -1,0 +1,10 @@
+h3 {
+  text-align: center;
+  padding-top: 14px;
+  margin-bottom: 24px;
+}
+
+.rates-table {
+  display: flex;
+  flex-direction: column;
+}
